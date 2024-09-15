@@ -24,3 +24,10 @@ Tech Stack:
 -> CAPTCHA Solver: Deep learning model integrated with the scraping logic
 
 -> Headless Browser: Uses Selenium or Playwright to interact with web pages dynamically
+
+Sceenshots:- 
+![Screenshot 2024-09-15 at 9 00 34 PM](https://github.com/user-attachments/assets/a0f1518d-579a-4059-8ae4-d6113b7cb133)
+![Screenshot 2024-09-15 at 9 01 22 PM](https://github.com/user-attachments/assets/31818bae-d6f2-4556-8ebf-35c0125028bc)
+![Screenshot 2024-09-15 at 9 04 24 PM](https://github.com/user-attachments/assets/4cc98026-7622-4585-b29a-dee39ec10800)
+
+
