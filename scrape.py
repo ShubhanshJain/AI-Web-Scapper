@@ -1,8 +1,8 @@
 from selenium.webdriver import Remote, ChromeOptions
 from selenium.webdriver.chromium.remote_connection import ChromiumRemoteConnection
 from selenium.webdriver.common.by import By
-#AUTH = 'USER:PASS'
-SBR_WEBDRIVER = "https://brd-customer-hl_893aa116-zone-ai_scrapper:zfj216zw0n55@brd.superproxy.io:9515"
+# for AUTH = 'USER:PASS'
+SBR_WEBDRIVER = "https://brd-customer-hl_893aa116-zone-ai_scrapper:{YOUR-PASSWORD}@brd.superproxy.io:9515"
 from bs4 import BeautifulSoup
 
 
